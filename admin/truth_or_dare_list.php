@@ -1,5 +1,5 @@
 <?php
-//Laxman branch
+//Laxman branch - changes by github editor
 include("header.php");
 include "db.php" ;
 error_reporting(0);
