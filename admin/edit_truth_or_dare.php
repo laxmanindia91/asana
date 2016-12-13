@@ -1,6 +1,6 @@
 <?php
 include("header.php");
-//Laxman github pull testing from local
+//github pull testing from local - Dilpreet changes again
 //include("include/config.php");
 include "db.php" ;
 
