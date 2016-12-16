@@ -13,6 +13,7 @@ if (isset($_REQUEST['truth_or_dare_id']) && $_REQUEST['truth_or_dare_id'] != '')
     header("location:truth_or_dare_list.php");
 	//var_dump( xdebug_get_headers() );
 }
+//divya branch
 ?>
 <!--Anusha-->
 <!DOCTYPE html>
