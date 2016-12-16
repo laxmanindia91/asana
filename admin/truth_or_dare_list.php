@@ -14,6 +14,7 @@ if (isset($_REQUEST['truth_or_dare_id']) && $_REQUEST['truth_or_dare_id'] != '')
 	//var_dump( xdebug_get_headers() );
 }
 //divya branch
+//divya branch 2
 ?>
 <!DOCTYPE html>
 <html>
