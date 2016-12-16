@@ -1,5 +1,7 @@
 <? ob_start(); ?>
 <?php 
+//anusha pc to master branch
+//delete above comment
     include("db.php");
 ?>
 <!DOCTYPE html>
