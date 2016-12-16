@@ -1,5 +1,5 @@
 <?php
-//Divya Developer
+
 include("header.php");
 include "db.php" ;
 error_reporting(0);
@@ -16,6 +16,7 @@ if (isset($_REQUEST['truth_or_dare_id']) && $_REQUEST['truth_or_dare_id'] != '')
 //divya branch
 //divya branch 2
 ?>
+<!--Anusha-->
 <!DOCTYPE html>
 <html>
 <head>
