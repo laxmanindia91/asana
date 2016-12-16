@@ -1,5 +1,5 @@
 <?php
-//Divya Developer
+
 include("header.php");
 include "db.php" ;
 error_reporting(0);
