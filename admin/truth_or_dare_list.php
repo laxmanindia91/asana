@@ -13,6 +13,7 @@ if (isset($_REQUEST['truth_or_dare_id']) && $_REQUEST['truth_or_dare_id'] != '')
 	//var_dump( xdebug_get_headers() );
 }
 ?>
+<!--Anusha-->
 <!DOCTYPE html>
 <html>
 <head>
