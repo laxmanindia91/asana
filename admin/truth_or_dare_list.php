@@ -1,9 +1,12 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 //Laxman after lunch 
 =======
 
 >>>>>>> refs/remotes/origin/master
+=======
+>>>>>>> origin/laxman
 include("header.php");
 include "db.php" ;
 error_reporting(0);
