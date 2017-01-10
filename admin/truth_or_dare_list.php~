@@ -1,4 +1,5 @@
 <?php
+//Divya Developer
 include("header.php");
 include "db.php" ;
 error_reporting(0);
@@ -12,9 +13,7 @@ if (isset($_REQUEST['truth_or_dare_id']) && $_REQUEST['truth_or_dare_id'] != '')
     header("location:truth_or_dare_list.php");
 	//var_dump( xdebug_get_headers() );
 }
-//divya branch
 ?>
-<!--Anusha-->
 <!DOCTYPE html>
 <html>
 <head>
